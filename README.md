@@ -1,5 +1,5 @@
 # Travesticidios Argentina
-Análisis de datos sobre fallos judiciales de travesticidios en Argentina de 20108 a 20223
+Análisis de datos sobre fallos judiciales de travesticidios en Argentina de 2018 a 2023
 
 Created by: Fer Aguirre
 
