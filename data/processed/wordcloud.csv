@@ -1,0 +1,111 @@
+palabra,cuenta,pos_tags,tipo_palabra
+camara,331,PROPN,nombre propio
+firmado,320,ADJ,adjectivo
+juez,241,NOUN,sustantivo
+fs,198,NOUN,sustantivo
+diana,153,NOUN,sustantivo
+persona,103,NOUN,sustantivo
+informe,86,NOUN,sustantivo
+marino,85,NOUN,sustantivo
+veronica,85,PROPN,nombre propio
+julio,84,NOUN,sustantivo
+firma,84,NOUN,sustantivo
+ivana,82,NOUN,sustantivo
+bloch,82,NOUN,sustantivo
+baez,82,VERB,verbo
+adolfo,82,PROPN,nombre propio
+calvete,82,PROPN,nombre propio
+fabian,82,PROPN,nombre propio
+cesar,81,VERB,verbo
+secretario,81,NOUN,sustantivo
+ignacio,81,PROPN,nombre propio
+iriarte,81,ADJ,adjectivo
+fecha,80,NOUN,sustantivo
+genero,71,NOUN,sustantivo
+travesti,70,NOUN,sustantivo
+federal,68,ADJ,adjectivo
+caso,65,NOUN,sustantivo
+violencia,60,NOUN,sustantivo
+odio,57,NOUN,sustantivo
+tribunal,55,NOUN,sustantivo
+crimen,49,NOUN,sustantivo
+judicial,48,ADJ,adjectivo
+criminal,48,ADJ,adjectivo
+identidad,48,NOUN,sustantivo
+oral,46,ADJ,adjectivo
+nro,45,ADJ,adjectivo
+sacayan,44,PROPN,nombre propio
+cuerpo,44,NOUN,sustantivo
+trans,44,PROPN,nombre propio
+nacion,43,PROPN,nombre propio
+correccional,43,ADJ,adjectivo
+derecho,43,NOUN,sustantivo
+capital,41,NOUN,sustantivo
+ccc,40,ADP,otro
+to,40,NOUN,sustantivo
+victima,40,NOUN,sustantivo
+lugar,38,NOUN,sustantivo
+departamento,38,NOUN,sustantivo
+inc,37,PROPN,nombre propio
+prueba,34,NOUN,sustantivo
+vida,33,NOUN,sustantivo
+humano,33,ADJ,adjectivo
+ver,32,VERB,verbo
+homicidio,32,NOUN,sustantivo
+juicio,32,NOUN,sustantivo
+penal,31,PROPN,nombre propio
+colectivo,31,ADJ,adjectivo
+relacion,29,NOUN,sustantivo
+gabriel,27,PROPN,nombre propio
+debate,27,NOUN,sustantivo
+autor,27,NOUN,sustantivo
+policia,26,NOUN,sustantivo
+mujer,26,NOUN,sustantivo
+muerte,26,NOUN,sustantivo
+cometer,26,VERB,verbo
+dr,25,PROPN,nombre propio
+contexto,25,NOUN,sustantivo
+art,25,NOUN,sustantivo
+discriminacion,25,PROPN,nombre propio
+publico,24,ADJ,adjectivo
+portar,24,VERB,verbo
+division,24,PROPN,nombre propio
+octubre,23,NOUN,sustantivo
+codigo,23,PROPN,nombre propio
+momento,23,NOUN,sustantivo
+senalo,23,PROPN,nombre propio
+ano,22,NOUN,sustantivo
+travesticidio,22,PROPN,nombre propio
+ataque,22,NOUN,sustantivo
+david,21,PROPN,nombre propio
+lesión,21,NOUN,sustantivo
+imputado,20,NOUN,sustantivo
+acta,20,NOUN,sustantivo
+matar,20,VERB,verbo
+hecho,19,ADJ,adjectivo
+distinto,19,ADJ,adjectivo
+declaracion,19,PROPN,nombre propio
+dejar,19,VERB,verbo
+justicia,18,NOUN,sustantivo
+forma,18,NOUN,sustantivo
+testigo,18,NOUN,sustantivo
+trabajo,18,NOUN,sustantivo
+ministerio,18,NOUN,sustantivo
+prejuicio,18,NOUN,sustantivo
+quedar,17,VERB,verbo
+edificio,17,NOUN,sustantivo
+medico,17,ADJ,adjectivo
+constancia,17,NOUN,sustantivo
+punto,17,NOUN,sustantivo
+agravante,17,NOUN,sustantivo
+delito,16,NOUN,sustantivo
+legal,16,ADJ,adjectivo
+sexual,16,ADJ,adjectivo
+encontrar,16,VERB,verbo
+sujeto,16,ADJ,adjectivo
+frente,16,ADV,adverbio
+sentido,16,NOUN,sustantivo
+hablar,16,VERB,verbo
+domicilio,15,NOUN,sustantivo
+salir,15,VERB,verbo
+explicar,15,VERB,verbo
