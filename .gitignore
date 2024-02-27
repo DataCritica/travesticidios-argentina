@@ -130,7 +130,7 @@ cython_debug/
 .vs*
 
 # Directories
-data/
+./data/
 assets/
 outputs/
 
